@@ -1,0 +1,26 @@
+.uppercase{
+    text-shadow: -1px 2px 1px red;
+    text-transform: uppercase;
+    text-align: center;
+    /*color: #000000;*/
+}
+
+.lowercase{
+    /*text-align-last: right;*/
+    text-transform: lowercase;
+}
+
+.capitalize{
+    text-transform: capitalize;
+}
+
+.paragraph{
+    text-align: justify;
+    text-indent: 50px;
+    letter-spacing: 0.1px;
+    word-spacing: 0.5;
+    white-space: normal;
+    /*white-space: nowrap;*/
+    /*line-height: 10px;*/
+    /*text-align-last: justify;*/
+}
