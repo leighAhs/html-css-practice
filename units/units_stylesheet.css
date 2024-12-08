@@ -1,0 +1,24 @@
+div {
+    width: 50%;
+    height: 50%;
+    /*width: 50%;
+    height: 50%;*/
+    background: red;
+}
+
+/*
+h1{ viewport width and height
+    font-size: 5vw;
+    font-size: 5vh;
+} */
+
+/* rem 
+html{ relative font size of the root element
+    font-size: 12px;
+}
+body{
+    font-size: 24px;
+}
+h1 {
+    font-size: 5rem;
+} */

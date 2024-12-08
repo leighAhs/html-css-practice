@@ -1,0 +1,16 @@
+body {
+    background: #78ff29;
+    /*background: hsla(0, 100%, 50%, 1);*/
+    /*background: hsl(300, 100%, 50%);*/
+    /*background: rgba(255, 0, 0, 1);*/
+    /*background: rgb(100, 255, 0);*/
+}
+
+.sample{
+    /*color: rgba(255, 255, 255, 0.5);*/
+}
+
+/*
+body{
+    background: greenyellow;
+}/*
