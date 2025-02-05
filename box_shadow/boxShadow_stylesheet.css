@@ -1,0 +1,9 @@
+.container{
+    height: 100px;
+    width: 200px;
+    box-shadow: 2px 2px 5px 2px red, -2px -2px 5px 2px blue, 2px -2px 5px 2px yellow;
+    /* box-shadow: 6px 9px 14px 4px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 6px 9px 14px 4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 6px 9px 14px 4px rgba(0,0,0,0.75); */
+    border-radius: 5px;
+}

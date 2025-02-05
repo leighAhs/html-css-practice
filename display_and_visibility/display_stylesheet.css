@@ -1,0 +1,55 @@
+/* p{
+    background: red;
+    display: inline;
+}
+
+span{
+    background: red;
+    display: block;
+}
+
+h1{
+    display: none;
+} */
+
+/* span{
+    background: red;
+}
+
+.in{
+    display: inline;
+    width: 100px;
+    margin-top: 100px;
+}
+
+.in-b{
+    display: inline-block;
+    margin-top: 100px;
+    width: 100px;
+} */
+
+.container{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+    margin-top: 10px;
+    display: inline-block;
+    text-align
+    : center;
+}
+
+#one{
+    visibility: visible;
+}
+
+#two{
+    visibility: visible;
+}
+
+#three{
+    visibility: visible;
+}
+
+#four{
+    visibility: hidden;
+}
