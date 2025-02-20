@@ -13,17 +13,15 @@ body{
     margin-bottom: 50px;
 }
 
-.facebook-logo{
-    margin: 5px;
-}
-
 .login-container{
     width: 385px;
-    box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 4px 1px rgba(0, 0, 0, 0.2);
     margin: 30px auto;
     background-color: white;
     border-radius: 10px;
     padding: 15px;
+    padding-top: 10px;
+    padding-bottom: 5px;
 }
 
 input{
