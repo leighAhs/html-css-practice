@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    background-color: rgb(154, 205, 50);
+}
+
+
+nav{
+    background-color: rgb(30,30,50);
+    padding:5px;
+    padding-right: 36px;
+    width: 100%;
+    margin: 0;
+    border-radius: 2px;
+    position: x;
+}
+
+.brand-container{
+    display: inline-block;
+}
+
+.logo{
+    width: 50;
+    height: 50px;
+}
+
+.brand-title{
+    display: inline-block;
+    margin: 0;
+    position: relative;
+    top: -17px;
+    color: white;
+    font-family: verdana;
+}
+
+.links-container{
+    float: right;
+    position: relative;
+    top: 17px;
+}
+
+.link{
+    font-family: verdana;
+    color: white;
+    text-decoration: none;
+    margin-left: 40px;
+    transition: 1s;
+}
+
+.btn-link{
+    background-color: gold;
+    position: relative;
+    margin-left: 40px;
+    text-decoration: none;
+    border-radius: 25px;
+    font-family: verdana;
+    color: white;
+    padding: 10px 25px;
+    transition: 0.5s;
+}
+
+.link:hover{
+    color: gold;
+    scale: 1;
+}
+
+.btn-link:hover{
+    background-color: green;
+    padding: 10px 30px;
+}
+
+.content{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    padding: 20px;
+    border-radius: 0.5px;
+}
+
+.content-about{
+    font-family: verdana;
+    font-size: 250%;
+    padding-top: 120px;
+    padding-left: 100px;
+    text-align: center;
+    position: inherit;
+}
+
+.content-adobo-image{
+    height: 300px;
+    width: 400px;
+    position: inherit;
+    top: 60px;
+    right: 100px;
+}
+
+.content-adobo-image{
+    height: 300px;
+    width: 400px;
+    position: inherit;
+    top: 110px;
+    right: 100px;
+}
+
+.content-bulalo-image{
+    height: 300px;
+    width: 400px;
+    position: inherit;
+    top: 60px;
+    right: 350px;
+}

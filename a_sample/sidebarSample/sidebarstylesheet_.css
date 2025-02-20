@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+}
+
+.container{
+    height: 100%;
+    width: 250px;
+    background-color: rgb(102, 82, 214);
+    position: fixed;
+    top: 0;
+    left: 0;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.link{
+    display: block;
+    margin: 20px 0;
+    color: white;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition: 0.2s;
+    padding: 5px;
+    padding-left: 10px;
+}
+
+.link:hover{
+    background: white;
+    color: black;
+}
+
+.brand-container{
+    text-align: center;
+    color: white;
+    font-family: verdana;
+
+}
+
+.brand-title{
+    margin-top: 0;
+    position: absolute;
+    top: 75px;
+    left: 23px;
+}

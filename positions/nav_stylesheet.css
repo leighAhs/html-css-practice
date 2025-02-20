@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+
+div{
+    background-color: black;
+    padding: 5px;
+    border-radius: 5px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin: 75px;
+    transition: 1s;
+    font-family: verdana;
+}
+
+a:hover{
+    color: gold;
+}

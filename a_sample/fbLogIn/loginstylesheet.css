@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    text-align: center;
+    margin-top: 15px;
+    background-color: #f2f4f7;
+}
+
+.text-quote{
+    font-family: Arial;
+    font-weight: normal;
+    margin-top: 0px;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+.facebook-logo{
+    margin: 5px;
+}
+
+.login-container{
+    width: 385px;
+    box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.2);
+    margin: 30px auto;
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+input{
+    display: block;
+    width: 92%;
+    outline: none;
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 1px solid rgba(0,0,0,0.1);
+    margin-top: 10px;
+}
+
+.btn-login{
+    width: 100%;
+    border-radius: 10px;
+    border: 1px;
+    background-color: #0866ff;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 15px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+.forgot{
+    font-weight: 500;
+    font-family: arial;
+    font-size: 14px;
+    text-decoration: none;
+    color: #0866ff;
+}
+
+hr{
+    margin: 25px 0;
+    opacity: 0.3;
+}
+
+.btn-create{
+    width: 50%;
+    padding: 15px;
+    border-radius: 5px;
+    color: white;
+    background-color: #42b72a;
+    border: none;
+    margin: 15px;
+    margin-top: 0;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.create{
+    text-decoration: none;
+    font-family: arial;
+    font-weight: bold;
+    color: black;
+    transition: 0.1s;
+}
+
+p{
+    font-family: arial;
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+
+.create:focus{
+    text-decoration: underline;
+}
+
+input:focus{
+    border: 1px solid #0866ff;
+    outline: none;
+    background-color: #e7f0fe;
+}
